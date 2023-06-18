@@ -1,13 +1,14 @@
 # CraxsRatLeak
 All Craxs Software IN One (Leak Account)
-
-
-All Craxs Software in One
-
-
+ 
+  
+   
+    
+     
+      
 Account:
-
-
+ 
+ 
 Login: Freds
 
 Password: Freds
