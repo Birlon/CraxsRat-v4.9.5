@@ -9,7 +9,8 @@ Account:
 
 
 Login: Freds
-\n\nPassword: Freds
+
+Password: Freds
 
 
 
